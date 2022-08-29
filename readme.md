@@ -14,7 +14,7 @@ As part of Onam Celebrations, we are organizing a pookalam coding competition. P
 9. If you are using npm/yarn/etc to transpile/bundle your code, then please provide both source code and final build code
 10. Only one submission per user/team is allowed.
 11. Your code will be verified for plagiarism
-12. The competition will end on 31st August 2022 at 12PM (12 noon). Any submissions/changes made after this time will not be considered.
+12. The competition will end on 31st August 2022 at 2PM (14:00). Any submissions/changes made after this time will not be considered.
 13. Some sample codes are provided in the sample folder of this repository
 14. **The competition should not affect your work**
 15. For any queries, feel free to start a new [Discussion](https://github.com/WAC-backend/renderAPookalam/discussions)
