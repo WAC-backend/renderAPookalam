@@ -1,6 +1,6 @@
 ![WAC Logo](https://webandcrafts.com/images/webandcrafts-logo.svg)
 
-As part of Onam Celebrations, we are organizing a pookalam coding competition. Participants need to generate a pookalam programmatically through code.
+As part of Onam Celebrations, we are organizing a pookalam coding competition. Participants need to generate a pookalam through code.
 
 # Instructions
 1. The pookalam should be generated using **Javascript**.
@@ -14,8 +14,7 @@ As part of Onam Celebrations, we are organizing a pookalam coding competition. P
 9. If you are using npm/yarn/etc to transpile/bundle your code, then please provide both source code and final build code
 10. Only one submission per user/team is allowed.
 11. Your code will be verified for plagiarism
-12. Prize money of **₹5000 ( Five Thousand Rupees )** will be awarded to the winner/winning team
-13. The competition will end on 31st August 2022 at 12PM (12 noon). Any submissions/changes made after this time will not be considered.
-14. Some sample codes are provided in the sample folder of this repository
-15. **The competition should not affect your work**
-16. For any queries, feel free to start a new [Discussion](https://github.com/WAC-backend/renderAPookalam/discussions)
+12. The competition will end on 31st August 2022 at 12PM (12 noon). Any submissions/changes made after this time will not be considered.
+13. Some sample codes are provided in the sample folder of this repository
+14. **The competition should not affect your work**
+15. For any queries, feel free to start a new [Discussion](https://github.com/WAC-backend/renderAPookalam/discussions)
